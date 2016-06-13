@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/alumne/Code/Android/BasicNotifications/Application/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/home/alumne/Code/Android/BasicNotifications/Application/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/alumne/Code/Android/BasicNotifications/Application/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_stat_notification.png",
+        "source": "/home/alumne/Code/Android/BasicNotifications/Application/src/main/res/drawable-hdpi/ic_stat_notification.png"
+    },
+    {
+        "merged": "/home/alumne/Code/Android/BasicNotifications/Application/build/intermediates/res/merged/debug/drawable-hdpi-v4/tile.9.png",
+        "source": "/home/alumne/Code/Android/BasicNotifications/Application/src/main/res/drawable-hdpi/tile.9.png"
+    }
+]

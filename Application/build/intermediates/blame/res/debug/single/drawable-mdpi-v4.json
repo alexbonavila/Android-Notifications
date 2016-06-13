@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/alumne/Code/Android/BasicNotifications/Application/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_stat_notification.png",
+        "source": "/home/alumne/Code/Android/BasicNotifications/Application/src/main/res/drawable-mdpi/ic_stat_notification.png"
+    },
+    {
+        "merged": "/home/alumne/Code/Android/BasicNotifications/Application/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/home/alumne/Code/Android/BasicNotifications/Application/src/main/res/drawable-mdpi/ic_launcher.png"
+    }
+]
